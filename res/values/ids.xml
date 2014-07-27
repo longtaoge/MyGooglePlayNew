@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item type="id" name="detail_progress"/>
+
+    <item type="id" name="tag_1"/>
+    <item type="id" name="tag_2"/>
+</resources>
